@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quantum Coin Flip</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Quantum Coin Flip</h1>
+    <div class="coin" id="coin">
+        <div class="coin-face heads">H</div>
+        <div class="coin-face tails">T</div>
+    </div>
+    <button onclick="flipCoin()">Flip Quantum Coin</button>
+    <div class="quantum-state" id="quantumState">
+        Click to flip the quantum coin!
+    </div>
+    <div class="quantum-circuit" id="circuitDiagram"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/quantum-circuit@0.9.226/dist/quantum-circuit.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
