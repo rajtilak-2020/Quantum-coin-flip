@@ -1,4 +1,4 @@
-# 🌌 Quantum Coin Flip Simulator  
+# 🌌 Quantum Coin Flip 
 
 ### 🎲 A Fun and Visual Dive Into Quantum Computing Principles  
 > Explore the mind-bending world of quantum mechanics through an interactive coin flip simulation!  
